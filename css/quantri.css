@@ -1,0 +1,16 @@
+a {
+    text-decoration: none;
+    color: white;
+    background-color: pink;
+    padding:5px 5px;
+    margin-right: 10px;
+    border: 1px solid gray;
+    font-size: 20px;
+}
+tr{
+    text-align: center;
+}
+.container-quantri {
+    margin:0 135px;
+    text-align: center;
+}

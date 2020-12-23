@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container-header {
+    background-image: url(../img/nen.jpg);
+    max-width: 100%;
+    height: 700px;
+    background-size: cover;
+}
+.container-header img {
+    width: 90px;
+    height: 60px;
+}
+.container-header .dropdown-item{
+    text-align: center;
+}
+.container-header .d-flex{
+    margin: 50px auto;
+}
+.container-header .form{
+    text-align: center;
+    margin-top: 150px;
+}
+.container-header h1{
+    font-size: 40px;
+    color: white;
+}
+.container-header p{
+    font-size: 30px;
+    color: white;
+}
+.container-header .d-flex{
+    width: 800px;
+}
+.container-header .d-flex input{
+    height: 40px;
+}
